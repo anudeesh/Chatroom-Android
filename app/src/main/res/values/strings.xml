@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InClass11</string>
+    <string name="email_hint">Email</string>
+    <string name="pwd_hint">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="email_label">Email</string>
+    <string name="pwd_label">Choose Password</string>
+    <string name="repeat_pwd_label">Repeat Password</string>
+    <string name="fname_label">First Name</string>
+    <string name="lname_label">Last Name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="logout_option">Logout</string>
+    <string name="message_hint">Type Message to Send</string>
+    <string name="comment_hint">Comment</string>
+    <string name="button_ok">ok</string>
+</resources>
